@@ -1,0 +1,118 @@
+body{
+	background-image: url(../img/FON_01.jpg);
+	background-size: cover;
+	min-height: 750px;
+	background-position: center;
+}
+hr{
+background-color: #fff;
+}
+
+.header{
+	margin: 0 0 10px 0;
+	
+}
+.logo{
+	display: inline-block;
+	position: absolute;
+
+	left: 50px;
+}
+.logo h3{
+	font-family: 'Blackadder ITC', sans-serif;
+
+	color: #fff;
+}
+.logo h3 span{
+	font-family: 'Blackadder ITC', sans-serif;
+	color: gold;
+}
+.tel{
+	display: inline-block;
+	font-family: 'Blackadder ITC', sans-serif;
+	color: #fff;
+	font-size: 25px;
+	position: absolute;
+	right: 70px;
+	
+	margin: 0 0 10px 0;
+}
+.menu{
+
+	position: relative;
+	top: 40px;
+}
+.main-flex{
+	display: flex;
+	min-height: 700px;
+	position: relative;
+}
+.second-flex{
+	margin: 15% 0 0 15% ;
+}
+.main-title{
+	font-family:'ralewaythin' sans-serif;
+	text-align: center;
+	color: #fff;
+}
+
+.main-title span{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.hiwrd{
+	display: inline-block;
+	align-items: center;
+	
+}
+
+.main-title h1{
+	font-size: 70px;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+.main-title a{
+display: inline-block;
+color: #fff;
+background-color: #ffc85f;
+padding: 15px 45px;
+font-size: 13px;
+text-transform: uppercase;
+font-weight: 600;
+letter-spacing: 3px;
+border-radius: 2px;
+text-align: center;
+position: relative;
+
+}
+.moscow{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.name0{
+	font-weight: 600;
+}
+.lower{
+	border: 1px solid #fff;
+	min-height: 75px;
+	background-color: rgba(0,0,0,0.3);
+}
+
+.adress{
+	padding: 10px;
+	color: #fff;
+	text-align: center;
+}
+.phone{
+	padding: 10px;
+	color: #fff;
+	text-align: center;
+
+}
+.time{
+	padding: 10px;
+	color: #fff;
+	text-align: center;
+}
